@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**sakib-samar/sakib-samar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+Currently building value at Hewlett Packard Enterprise, working with high-performance computing storage systems for AI/ML and research. Passionate about distributed systems, scalable infrastructure, and the future of AI/ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect
+<p>
+  <a href="https://www.linkedin.com/in/sakib-samar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/sakib-samar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
